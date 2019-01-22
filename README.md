@@ -1,4 +1,4 @@
-# CSV to JSON
+# CSV to XML
 
 A generic script for use in Boomi to take a CSV file and to rip it into multiple XML Documents.
 
